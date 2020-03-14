@@ -1,0 +1,24 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+input[type="submit"] {
+  display: center;
+  appearance: none;
+  margin-top: 40px;
+  border: 1px solid #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  padding: 10px 10px;
+  border-radius: 2px;
+  text-align: center;
+}
